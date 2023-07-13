@@ -5,4 +5,21 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Content Include="assignmnets\ZooManagement\.vs\ZooManagement\project-colors.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="assignmnets\ZooManagement\.vs\ZooManagement\DesignTimeBuild\.dtbcache.v2" />
+    <None Include="assignmnets\ZooManagement\.vs\ZooManagement\v17\.futdcache.v1" />
+    <None Include="assignmnets\ZooManagement\ZooManagement.csproj" />
+    <None Include="assignmnets\ZooManagement\ZooManagement.sln" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="assignmnets\ZooManagement\.vs\ZooManagement\v16\" />
+    <Folder Include="assignmnets\ZooManagement\bin\Debug\net6.0\ref\" />
+    <Folder Include="assignmnets\ZooManagement\obj\Debug\net6.0\ref\" />
+  </ItemGroup>
+
 </Project>
