@@ -14,12 +14,21 @@
     <None Include="assignmnets\ZooManagement\.vs\ZooManagement\v17\.futdcache.v1" />
     <None Include="assignmnets\ZooManagement\ZooManagement.csproj" />
     <None Include="assignmnets\ZooManagement\ZooManagement.sln" />
+    <None Include="slides\ArrayPracticeQuestion\.vs\ArrayPracticeQuestion\v16\Server\sqlite3\db.lock" />
+    <None Include="slides\ArrayPracticeQuestion\.vs\ArrayPracticeQuestion\v16\Server\sqlite3\storage.ide" />
+    <None Include="slides\ArrayPracticeQuestion\ArrayPracticeQuestion.sln" />
+    <None Include="slides\ArrayPracticeQuestion\ArrayPracticeQuestion\ArrayPracticeQuestion.csproj" />
+    <None Include="slides\DataStructures\DataStructures.sln" />
+    <None Include="slides\DataStructures\DataStructures\DataStructures.csproj" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="assignmnets\ZooManagement\.vs\ZooManagement\v16\" />
     <Folder Include="assignmnets\ZooManagement\bin\Debug\net6.0\ref\" />
     <Folder Include="assignmnets\ZooManagement\obj\Debug\net6.0\ref\" />
+    <Folder Include="slides\ArrayPracticeQuestion\ArrayPracticeQuestion\obj\Debug\TempPE\" />
+    <Folder Include="slides\DataStructures\.vs\DataStructures\v16\" />
+    <Folder Include="slides\DataStructures\DataStructures\obj\Debug\TempPE\" />
   </ItemGroup>
 
 </Project>
